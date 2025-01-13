@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
+title: xgky@GitHub
 ---
-
-### 安装中……
+git.xgky
